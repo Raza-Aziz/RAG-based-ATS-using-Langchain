@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+# Dependencies for PyMuPDFLoader & PyPDFLoader
+pypdf
+pymupdf
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+chromadb
+langchain-chroma
+langchain-huggingface
+huggingface-hub
+sentence-transformers
