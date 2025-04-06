@@ -1,4 +1,4 @@
-### RAG-based ATS using Langchain
+# RAG-based ATS using Langchain
 
 A Resume Analysis System powered by Langchain and Google Gemini that helps job applicants evaluate how well their resume aligns with a given job description using a Retrieval-Augmented Generation (RAG) approach.
 
